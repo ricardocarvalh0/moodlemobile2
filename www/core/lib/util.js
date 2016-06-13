@@ -31,7 +31,7 @@ angular.module('mm.core')
      *
      * @module mm.core
      * @ngdoc method
-     * @name $mmUtilProvider#param
+     * @name $mmUtil #param
      * @param  {Object} obj Object to serialize.
      * @return {String}     Serialization of the object.
      */
